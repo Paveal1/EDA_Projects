@@ -1,2 +1,2 @@
 # EDA_Projects
-A collection of data exploration projects I've undergone.
+This repository contains my EDA (Exploratory Data Analysis) Projects on jupyter notebook.
